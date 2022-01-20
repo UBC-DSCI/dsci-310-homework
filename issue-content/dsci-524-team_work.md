@@ -1,1 +1,0 @@
-- [ ] Completed the team work reflection document about my team work experience in DSCI 524
