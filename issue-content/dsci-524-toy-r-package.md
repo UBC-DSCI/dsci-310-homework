@@ -1,1 +1,0 @@
-- [ ] Created a toy R package by working through [the Whole Game chapter of the R packages book](https://r-pkgs.org/whole-game.html)
