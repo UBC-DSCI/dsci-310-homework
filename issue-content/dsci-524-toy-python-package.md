@@ -1,1 +1,0 @@
-- [ ] Created a toy Python package by working through [the How to Package a Python chapter of the Python packages book](https://py-pkgs.org/03-how-to-package-a-python)
