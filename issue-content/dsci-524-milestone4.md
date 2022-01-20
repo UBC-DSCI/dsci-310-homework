@@ -1,2 +1,0 @@
-- [ ] Implemented changes to address reviewers feedback on Python package
-- [ ] Implemented changes to address reviewers feedback on R package
