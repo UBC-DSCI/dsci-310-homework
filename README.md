@@ -12,7 +12,7 @@ A GitHub repository that serves 2 purposes:
 
 2. Click on the Actions tab, and then click on the workflow `.github/workflows/create_issues.yml`. You then should see a "Run workflow" button with a drop down menu, from that menu select "Run workflow".
 
-3. Wait patiently while GitHub Actions to create 24 issues for you in your copy of this repository.
+3. Wait patiently while GitHub Actions to create 13 issues for you in your copy of this repository.
 
 4. Create a project board "course work". Put the issues in appropriate columns.
 
